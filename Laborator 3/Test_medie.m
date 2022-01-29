@@ -3,7 +3,7 @@ close all
 clc
 
 L = 1000; %s nr de incercari = randuri din matricea cu date pe care facem media
-N = 1000; % marimea esantionului de date, volumul de date; cu cat e mai mare cu atat Beta scade
+N = 100; % marimea esantionului de date, volumul de date; cu cat e mai mare cu atat Beta scade
 
 delta = 0.2; % delta este un procent relativ cu cat fata de media reala e shiftata distributia
 % in acest fel se va calcula o medie experimentala cu o medie u_tilda
